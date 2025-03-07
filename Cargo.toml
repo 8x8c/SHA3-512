@@ -1,5 +1,5 @@
 [package]
-name = "sha3_512_cli"
+name = "sha3"
 version = "0.1.0"
 edition = "2021"
 

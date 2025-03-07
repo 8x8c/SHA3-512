@@ -1,6 +1,9 @@
 # sha3-512 hash returns
 
 
+Simply takes the text input, then returns the hash value. for example- 
+
+
 ./sha3 adelia
 
 should return 

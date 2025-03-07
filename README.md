@@ -1,3 +1,5 @@
+# sha3-512 hash returns
+
 
 ./sha3 adelia
 
